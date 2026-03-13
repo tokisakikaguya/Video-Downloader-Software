@@ -1,0 +1,2 @@
+# Video-Downloader-Software
+这是一个基于yt-dlp的视频下载工具，支持使用个人账号cookies的Youtube和bilibili视频下载，可以实现会员限定视频下载
