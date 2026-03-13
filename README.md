@@ -9,7 +9,6 @@ This is a video downloading tool based on yt-dlp. It supports downloading YouTub
 
 ## 🚀 Features
 
-**中文**
 * 基于 `yt-dlp` 构建，支持高速提取和解析 YouTube 和 Bilibili 视频链接。
 * **全格式展示**：一键获取视频的所有可用格式，以直观的表格呈现（包含格式 ID、扩展名、分辨率、帧率、文件大小及音视频编码）。
 * **自由组合下载**：支持表格多选（Multi-Selection），允许用户自由组合下载指定的视频轨与音频轨。
